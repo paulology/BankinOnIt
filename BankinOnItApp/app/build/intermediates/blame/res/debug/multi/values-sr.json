@@ -1,0 +1,1537 @@
+[
+    {
+        "outputFile": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 185,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 189,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 187,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2566,
+                        "endColumn": 191,
+                        "endOffset": 2753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 114,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2256,
+                        "endColumn": 114,
+                        "endOffset": 2366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 263,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4414,
+                        "endColumn": 267,
+                        "endOffset": 4677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 126,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2001,
+                        "endColumn": 126,
+                        "endOffset": 2123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 187,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 191,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 128,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 128,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 163,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 167,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 127,
+                    "endOffset": 1589
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 127,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1594,
+                    "endColumn": 212,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 216,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 211,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 215,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 127,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 127,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endColumn": 172,
+                    "endOffset": 2315
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3527,
+                        "endColumn": 172,
+                        "endOffset": 3695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2320,
+                    "endColumn": 122,
+                    "endOffset": 2438
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3404,
+                        "endColumn": 122,
+                        "endOffset": 3522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2443,
+                    "endColumn": 163,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 163,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 179,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3224,
+                        "endColumn": 179,
+                        "endOffset": 3399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endColumn": 121,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3102,
+                        "endColumn": 121,
+                        "endOffset": 3219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 166,
+                    "endOffset": 3071
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 166,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3076,
+                    "endColumn": 131,
+                    "endOffset": 3203
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 131,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3208,
+                    "endColumn": 183,
+                    "endOffset": 3387
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4814,
+                        "endColumn": 183,
+                        "endOffset": 4993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3392,
+                    "endColumn": 131,
+                    "endOffset": 3519
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4682,
+                        "endColumn": 131,
+                        "endOffset": 4809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3524,
+                    "endColumn": 141,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3700,
+                        "endColumn": 141,
+                        "endOffset": 3837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endColumn": 238,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 242,
+                        "endOffset": 4203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 122,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3842,
+                        "endColumn": 122,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endColumn": 108,
+                    "endOffset": 4132
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4208,
+                        "endColumn": 108,
+                        "endOffset": 4312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4137,
+                    "endColumn": 190,
+                    "endOffset": 4323
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2371,
+                        "endColumn": 194,
+                        "endOffset": 2561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4328,
+                    "endColumn": 127,
+                    "endOffset": 4451
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2128,
+                        "endColumn": 127,
+                        "endOffset": 2251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4456,
+                    "endColumn": 207,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2890,
+                        "endColumn": 211,
+                        "endOffset": 3097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endColumn": 131,
+                    "endOffset": 4791
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2758,
+                        "endColumn": 131,
+                        "endOffset": 2885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 96,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4317,
+                        "endColumn": 96,
+                        "endOffset": 4409
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 102,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 102,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 105,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 105,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 85,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 85,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endColumn": 103,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 103,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 117,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 117,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 80,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 80,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 79,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 79,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 87,
+                    "endOffset": 1156
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 87,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endColumn": 104,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 104,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 107,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 107,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 100,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 100,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endColumn": 103,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 103,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 107,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 107,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 100,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1687,
+                        "endColumn": 100,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 127,
+                    "endOffset": 1911
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 127,
+                        "endOffset": 1911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1916,
+                    "endColumn": 96,
+                    "endOffset": 2008
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1916,
+                        "endColumn": 96,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2013,
+                    "endColumn": 100,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/bankin_on_it/BankinOnItApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sr/values-sr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2013,
+                        "endColumn": 100,
+                        "endOffset": 2109
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 185,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 189,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 187,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2566,
+                        "endColumn": 191,
+                        "endOffset": 2753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 114,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2256,
+                        "endColumn": 114,
+                        "endOffset": 2366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 263,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4414,
+                        "endColumn": 267,
+                        "endOffset": 4677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 126,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2001,
+                        "endColumn": 126,
+                        "endOffset": 2123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 187,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 191,
+                        "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 128,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 128,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 163,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 167,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 127,
+                    "endOffset": 1589
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 127,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1594,
+                    "endColumn": 212,
+                    "endOffset": 1802
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 216,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1807,
+                    "endColumn": 211,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 215,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 127,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 127,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endColumn": 172,
+                    "endOffset": 2315
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3527,
+                        "endColumn": 172,
+                        "endOffset": 3695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2320,
+                    "endColumn": 122,
+                    "endOffset": 2438
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3404,
+                        "endColumn": 122,
+                        "endOffset": 3522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2443,
+                    "endColumn": 163,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 163,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 179,
+                    "endOffset": 2782
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3224,
+                        "endColumn": 179,
+                        "endOffset": 3399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2787,
+                    "endColumn": 121,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3102,
+                        "endColumn": 121,
+                        "endOffset": 3219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 166,
+                    "endOffset": 3071
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 166,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3076,
+                    "endColumn": 131,
+                    "endOffset": 3203
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 131,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3208,
+                    "endColumn": 183,
+                    "endOffset": 3387
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4814,
+                        "endColumn": 183,
+                        "endOffset": 4993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3392,
+                    "endColumn": 131,
+                    "endOffset": 3519
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4682,
+                        "endColumn": 131,
+                        "endOffset": 4809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3524,
+                    "endColumn": 141,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3700,
+                        "endColumn": 141,
+                        "endOffset": 3837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endColumn": 238,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 242,
+                        "endOffset": 4203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 122,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3842,
+                        "endColumn": 122,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endColumn": 108,
+                    "endOffset": 4132
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4208,
+                        "endColumn": 108,
+                        "endOffset": 4312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4137,
+                    "endColumn": 190,
+                    "endOffset": 4323
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2371,
+                        "endColumn": 194,
+                        "endOffset": 2561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4328,
+                    "endColumn": 127,
+                    "endOffset": 4451
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2128,
+                        "endColumn": 127,
+                        "endOffset": 2251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4456,
+                    "endColumn": 207,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2890,
+                        "endColumn": 211,
+                        "endOffset": 3097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endColumn": 131,
+                    "endOffset": 4791
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2758,
+                        "endColumn": 131,
+                        "endOffset": 2885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 96,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "/home/paul/Desktop/BankinOnIt/BankinOnItApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4317,
+                        "endColumn": 96,
+                        "endOffset": 4409
+                    }
+                }
+            }
+        ]
+    }
+]
